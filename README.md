@@ -24,6 +24,20 @@
 - jsonwebtoken
 
 ---
+![image](https://github.com/user-attachments/assets/283d78f5-7f12-4c4b-a9ab-92993b71cfe1)
+![image](https://github.com/user-attachments/assets/d80424fb-ded9-4d33-ad12-8fa31ad1c354)
+![image](https://github.com/user-attachments/assets/c33b9e00-00eb-41d5-9d1c-b9674bee8c21)
+![image](https://github.com/user-attachments/assets/abe688d0-6db7-4b9a-a90f-ea821a955c1b)
+![image](https://github.com/user-attachments/assets/0a401647-b35f-454a-9e9f-0bda43d5c4b2)
+![image](https://github.com/user-attachments/assets/43a8b5f8-e814-4683-8b34-18166c199550)
+![image](https://github.com/user-attachments/assets/3844f7c4-daa4-42f2-b023-32bc026f0a3e)
+
+
+
+
+
+
+
 
 ## Getting Started with the Project
 
@@ -32,8 +46,7 @@
 
 ```js
 run `git init` in your project directory
-run `git clone Your_Repository_Link` ex.=> `git clone https://github.com/YOUR_GITHUB_USERNAME/Dev_Notes.git`
-```
+run `git clone Your_Repository_Link` 
 
 - Run `npm run init` cpmmand in the root directory of the project (To install all the dependencies).
 - Create a .env file in the "Backend" Folder.
